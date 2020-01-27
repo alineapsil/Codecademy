@@ -1,5 +1,5 @@
 # Codecademy
-### Exercícios & Projetos do Curso de Web Development em inglês, realizado no curso do Codecademy.
+### Exercícios & Projetos do Curso de Web Development em inglês, realizados no curso online da plataforma Codecademy.
 
 ![](https://gph.is/2d3qmhY)
 
